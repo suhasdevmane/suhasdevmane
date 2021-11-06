@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suhasdevmane
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Big Data and hadoop
-- 💞️ I’m looking to collaborate on intresting projects.
+- 👀 Researcher and Data Scientist
+- 🌱 Semantic Web
+- 💞️ IoT garage
 - 📫 How to reach me ?
 suhasdevmanemech@gmail.com
 +917499968836
