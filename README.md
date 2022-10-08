@@ -3,7 +3,7 @@
 - 🌱 Semantic Web
 - 💞️ IoT garage
 - 📫 How to reach me ?
-suhasdevmanemech@gmail.com
+suhasdevmane@hotmail.com
 +447384153959
 
 <!---
