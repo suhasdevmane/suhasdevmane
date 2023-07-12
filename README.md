@@ -4,6 +4,7 @@
 
 ### Follow me: LinkedIn QR
 ![name-of-you-image](https://github.com/suhasdevmane/suhasdevmane/blob/main/LinkedIn%20QR.jpg")
+<img src="https://github.com/suhasdevmane/suhasdevmane/blob/main/LinkedIn%20QR.jpg" height="60" width="60" >
 
 
 ### Follow me: Github QR 
