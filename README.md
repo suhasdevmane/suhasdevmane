@@ -15,11 +15,11 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhasdevmane&show_icons=true&locale=en&layout=compact" alt="suhasdevmane" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhasdevmane&show_icons=true&locale=en&layout=compact&theme=dark" alt="suhasdevmane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhasdevmane&show_icons=true&locale=en" alt="suhasdevmane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhasdevmane&show_icons=true&locale=en&theme=dark" alt="suhasdevmane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhasdevmane&" alt="suhasdevmane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhasdevmane&theme=dark" alt="suhasdevmane" /></p>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=SuhasDevmane55)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
