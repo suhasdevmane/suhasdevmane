@@ -21,7 +21,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=suhasdevmane&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.gif" width="512px"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhasdevmane&show_icons=true&locale=en&layout=compact" alt="suhasdevmane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhasdevmane&show_icons=true&locale=en" alt="suhasdevmane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhasdevmane&" alt="suhasdevmane" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suhasdevmane&icon=0&color=0)](https://visitcount.itsvg.in)
