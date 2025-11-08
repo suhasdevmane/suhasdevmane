@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Suhas Devmane</h1>
 <p align="center">
-  <td align="center"><a href="https://github.com/suhasdevmane"><img src="https://github.com/suhasdevmane/suhasdevmane/blob/main/profile.jpg" width="120" alt="GitHub QR"/></a></td>
+  <a href="https://github.com/suhasdevmane">
+    <img src="https://github.com/suhasdevmane/suhasdevmane/blob/main/profile.jpg" width="120" alt="GitHub Profile Picture"/>
+  </a>
 </p>
+
 
 <p align="center">
 Software Engineer & Data Scientist | AI, ML, Smart Buildings | Cardiff University PhD | Python | Docker | Video Generation | Ontology Engineering
