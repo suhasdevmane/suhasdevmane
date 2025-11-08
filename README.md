@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suhas Devmane</h1>
 <p align="center">
   <a href="https://github.com/suhasdevmane">
-    <img src="https://github.com/suhasdevmane/suhasdevmane/blob/main/profile.jpg" width="1200" height="400" alt="Profile Background"/>
+    <img src="https://github.com/suhasdevmane/suhasdevmane/blob/main/Profile.jpg" width="1200" height="400" alt="Profile Background"/>
   </a>
 </p>
 
