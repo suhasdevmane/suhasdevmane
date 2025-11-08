@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Suhas Devmane</h1>
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gemini_images/82846cd1-e5b2-41c7-a05c-93ce74ed4398.png" alt="Professional LinkedIn Profile" height="220">
+  <td align="center"><a href="https://github.com/suhasdevmane"><img src="https://github.com/suhasdevmane/suhasdevmane/blob/main/profile.jpg" width="120" alt="GitHub QR"/></a></td>
 </p>
 
 <p align="center">
